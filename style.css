@@ -73,3 +73,19 @@ nav a:hover {
 .back:hover {
     text-decoration: underline;
 }
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:focus {
+    outline: 2px solid white;
+}
