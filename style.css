@@ -89,7 +89,22 @@ a:hover {
 a:focus {
     outline: 2px solid white;
 }
+
+/* LIST */
 ul {
     list-style-position: inside;
     padding-left: 0;
+}
+
+/* TABLE */
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
 }
