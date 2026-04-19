@@ -89,3 +89,7 @@ a:hover {
 a:focus {
     outline: 2px solid white;
 }
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
